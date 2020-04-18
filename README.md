@@ -1,4 +1,4 @@
-# safe-password-generator
+# Safe password generator
 Creates a safe but memorable password for different platforms.
 
 Everyone knows that same passwords should not be used across different platforms - however, many still do. This is often because remembering multiple safe passwords (includes numbers, symbols, capital and lower case letters and isn't a dictionary word) for different platforms can be difficult.
